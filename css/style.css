@@ -1,0 +1,32 @@
+body{
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+h1{
+	text-align: center;
+}
+
+em{
+	color: #FF5A5F;
+}
+
+.feature{
+	margin-bottom: 40px;
+	margin-left: 30px;
+}
+
+.rout{
+	margin-bottom:80px; 
+}
+
+.lair ul, li{
+	list-style: none;
+}
+a{
+	color: #999999;
+}
+
+.rout1{
+	margin-bottom: 80px;
+}
